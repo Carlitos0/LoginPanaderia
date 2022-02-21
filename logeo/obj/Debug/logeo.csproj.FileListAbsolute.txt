@@ -1,0 +1,20 @@
+D:\clases de C#\proyecto panaderia\logeo\logeo\bin\Debug\logeo.exe.config
+D:\clases de C#\proyecto panaderia\logeo\logeo\bin\Debug\logeo.exe
+D:\clases de C#\proyecto panaderia\logeo\logeo\bin\Debug\logeo.pdb
+D:\clases de C#\proyecto panaderia\logeo\logeo\obj\Debug\logeo.csprojAssemblyReference.cache
+D:\clases de C#\proyecto panaderia\logeo\logeo\obj\Debug\logeo.Properties.Resources.resources
+D:\clases de C#\proyecto panaderia\logeo\logeo\obj\Debug\logeo.csproj.GenerateResource.cache
+D:\clases de C#\proyecto panaderia\logeo\logeo\obj\Debug\logeo.csproj.CoreCompileInputs.cache
+D:\clases de C#\proyecto panaderia\logeo\logeo\obj\Debug\logeo.exe
+D:\clases de C#\proyecto panaderia\logeo\logeo\obj\Debug\logeo.pdb
+D:\clases de C#\proyecto panaderia\logeo\logeo\obj\Debug\logeo.FRMlogeo.resources
+C:\Users\USER\Downloads\logeo\logeo\bin\Debug\logeo.exe.config
+C:\Users\USER\Downloads\logeo\logeo\bin\Debug\logeo.exe
+C:\Users\USER\Downloads\logeo\logeo\bin\Debug\logeo.pdb
+C:\Users\USER\Downloads\logeo\logeo\obj\Debug\logeo.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\logeo\logeo\obj\Debug\logeo.FRMlogeo.resources
+C:\Users\USER\Downloads\logeo\logeo\obj\Debug\logeo.Properties.Resources.resources
+C:\Users\USER\Downloads\logeo\logeo\obj\Debug\logeo.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\logeo\logeo\obj\Debug\logeo.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\logeo\logeo\obj\Debug\logeo.exe
+C:\Users\USER\Downloads\logeo\logeo\obj\Debug\logeo.pdb
