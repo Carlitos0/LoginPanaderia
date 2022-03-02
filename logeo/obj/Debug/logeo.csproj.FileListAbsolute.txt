@@ -21,10 +21,13 @@ C:\Users\USER\Downloads\logeo\logeo\obj\Debug\logeo.pdb
 C:\Users\USER\Desktop\LoginPanaderia\logeo\bin\Debug\logeo.exe.config
 C:\Users\USER\Desktop\LoginPanaderia\logeo\bin\Debug\logeo.exe
 C:\Users\USER\Desktop\LoginPanaderia\logeo\bin\Debug\logeo.pdb
-C:\Users\USER\Desktop\LoginPanaderia\logeo\obj\Debug\logeo.csprojAssemblyReference.cache
 C:\Users\USER\Desktop\LoginPanaderia\logeo\obj\Debug\logeo.FRMlogeo.resources
 C:\Users\USER\Desktop\LoginPanaderia\logeo\obj\Debug\logeo.Properties.Resources.resources
 C:\Users\USER\Desktop\LoginPanaderia\logeo\obj\Debug\logeo.csproj.GenerateResource.cache
 C:\Users\USER\Desktop\LoginPanaderia\logeo\obj\Debug\logeo.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\LoginPanaderia\logeo\obj\Debug\logeo.exe
 C:\Users\USER\Desktop\LoginPanaderia\logeo\obj\Debug\logeo.pdb
+C:\Users\USER\Desktop\LoginPanaderia\logeo\obj\Debug\logeo.PantallaPrincipal.resources
+C:\Users\USER\Desktop\LoginPanaderia\logeo\obj\Debug\logeo.Productos.resources
+C:\Users\USER\Desktop\LoginPanaderia\logeo\obj\Debug\logeo.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\LoginPanaderia\logeo\obj\Debug\logeo.Empleados.resources

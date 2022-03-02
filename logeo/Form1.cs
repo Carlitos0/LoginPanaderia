@@ -16,6 +16,7 @@ namespace logeo
         public FRMlogeo()
         {
             InitializeComponent();
+            //FRMlogeo.
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
@@ -37,6 +38,41 @@ namespace logeo
         {
             ReleaseCapture();
             SendMessage(this.Handle, 0x112, 0xf012, 0);
+        }
+
+        private void btnInicio_Click(object sender, EventArgs e)
+        {
+            String user = txtUser.Text.Trim();
+            String pws = textBox2.Text.Trim();
+            DialogResult rpta;
+            if (user.Equals("admin") && pws.Equals("123"))
+            {
+                rpta = MessageBox.Show("¿Desea Ingresar?", "MESSAGE",MessageBoxButtons.YesNo,MessageBoxIcon.Question);
+                if(rpta == DialogResult.Yes)
+                {
+                    this.Hide();
+                    PantallaPrincipal pp = new PantallaPrincipal();
+                    pp.Show();
+                }
+                else
+                {
+                    this.Close();
+                }
+            }
+            else
+            {
+                MessageBox.Show("Usuario y/o contraseña incorrecta", "Message",MessageBoxButtons.OK);
+            }
+        }
+
+        private void btnInicio_MouseEnter(object sender, EventArgs e)
+        {
+            btnInicio.ForeColor = Color.FromArgb(255, 128, 0);
+        }
+
+        private void btnInicio_MouseLeave(object sender, EventArgs e)
+        {
+            btnInicio.ForeColor = Color.White;
         }
     }
 }
